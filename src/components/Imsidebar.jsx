@@ -8,4 +8,4 @@ export default function Imside() {
         <a href="\images\favorite-4.jpg"><img src="\images\favorite-4_th.jpg" alt="Large bird, mostly white plumage with black plumage on back and rear, long straight white beak, links to larger version of the image" /></a>
       </figure>
     );
-  }
+}
