@@ -3,7 +3,7 @@ export default function Header() {
     return (
       <header>
         <h1>BIRDWATCHING</h1>
-        <img src="\imges\dove.png" alt="a simple dove logo"/>
+        <img src="\dove.png" alt="a simple dove logo"/>
         <Navi/>
         
       </header>
